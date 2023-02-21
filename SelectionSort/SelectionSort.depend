@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1676880570 source:c:\users\marcusdamgaardbourno\desktop\school\c\selectionsort\main.c
+1676882013 source:c:\users\marcusdamgaardbourno\desktop\school\c\selectionsort\main.c
+	<time.h>
 	<stdio.h>
 	<stdlib.h>
 
