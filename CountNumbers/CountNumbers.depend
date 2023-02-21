@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676580654 source:c:\users\marcusdamgaardbourno\desktop\school\c\countnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

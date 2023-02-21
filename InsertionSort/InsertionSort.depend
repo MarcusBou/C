@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676882754 source:c:\users\marcusdamgaardbourno\desktop\school\c\insertionsort\main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
