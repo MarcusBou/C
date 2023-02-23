@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677168691 source:c:\users\marcusdamgaardbourno\desktop\school\c\doublechainednoncycle\main.c
+	<stdio.h>
+	<stdlib.h>
+

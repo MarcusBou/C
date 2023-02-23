@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677152817 source:c:\users\marcusdamgaardbourno\desktop\school\c\onechainedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
